@@ -1,0 +1,9 @@
+processed 50779 tokens with 10313 phrases; found: 10435 phrases; correct: 8355.
+accuracy:  95.33%; precision:  80.07%; recall:  81.01%; FB1:  80.54
+                 : precision:  70.53%; recall:  71.40%; FB1:  70.96  5001
+                 : precision:  70.53%; recall:  71.40%; FB1:  70.96  5001
+             BODY: precision:  83.38%; recall:  83.33%; FB1:  83.36  1895
+            CHECK: precision:  94.63%; recall:  95.28%; FB1:  94.96  1751
+          DISEASE: precision:  67.84%; recall:  82.27%; FB1:  74.36  171
+            SIGNS: precision:  94.95%; recall:  94.82%; FB1:  94.89  1427
+        TREATMENT: precision:  63.16%; recall:  71.43%; FB1:  67.04  190
